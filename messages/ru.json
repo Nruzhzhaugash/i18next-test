@@ -15,5 +15,8 @@
   },
   "Footer": {
     "copyright": "Сделано с next-intl. All rights reserved"
+  },
+  "Example": {
+    "title": "Роутинг сделанный на next-intl"
   }
 }

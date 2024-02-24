@@ -1,4 +1,4 @@
-import Link from 'next/link'
+import { Link } from '../../../navigation'
 import { useTranslations } from 'next-intl'
 import LangSwitcher from '@/features/lang-switcher/ui/lang-switcher'
 
@@ -7,7 +7,7 @@ export default function Navbar() {
 
   return (
     <nav className="flex items-center justify-between">
-      <Link className='font-semibold' href={'/'}>{t('home')}</Link>
+      <Link className='font-semibold' href='/'>{t('home')}</Link>
       <LangSwitcher />
     </nav>
   )

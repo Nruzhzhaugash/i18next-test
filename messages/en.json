@@ -15,5 +15,8 @@
   },
   "Footer": {
     "copyright": "Make with next-intl. All rights reserved"
+  },
+  "Example": {
+    "title": "Routing done using next-intl"
   }
 }
