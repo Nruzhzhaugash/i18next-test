@@ -1,5 +1,19 @@
 {
   "Index": {
     "title": "Hello world!"  
+  },
+  "IndexPage": {
+    "title": "Welcome to the Next.js page",
+    "description": "This page is made using the next-intl library"
+  },
+  "NotFountPage": {
+    "title": "Page not found",
+    "description": "Oops! Something went wrong"
+  },
+  "Navigation": {
+    "home": "Home"
+  },
+  "Footer": {
+    "copyright": "Make with next-intl. All rights reserved"
   }
 }

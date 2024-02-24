@@ -1,5 +1,19 @@
 {
   "Index": {
     "title": "Привет мир!"
+  },
+  "IndexPage": {
+    "title": "Добро пожаловать Next.js страницу",
+    "description": "Эта страница сделано с помощью библиотеки next-intl"
+  },
+  "NotFoundPage": {
+    "title":"Страница не найдена",
+    "description": "Упс! пошел нахуй со страницы"
+  },
+  "Navigation": {
+    "home": "Дом"
+  },
+  "Footer": {
+    "copyright": "Сделано с next-intl. All rights reserved"
   }
 }
