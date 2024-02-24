@@ -3,12 +3,10 @@ import React from 'react'
 
 export default function HomePages() {
   const t = useTranslations("IndexPage");
-  const hello = useTranslations("Index")
 
   return (
     <div>
-      {hello('title')}
-      <h1>{t('title')}</h1>
+      <h1 className='text-4xl mb-4 font-semibold'>{t('title')}</h1>
       <p>{t('description')}</p>
     </div>
   )
